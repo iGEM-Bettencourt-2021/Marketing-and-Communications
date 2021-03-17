@@ -1,6 +1,9 @@
-#Marketing-and-Communications
+## Marketing-and-Communications
+
+## Introduction
 Welcome to the Marketing and Communications GitHub page for iGEM 2021 Bettencourt team! Here you will find all the relevant informations and links related to the social media, outreach, and promotion of our team.
 
+## Team 
 The members of this team are the following:
 
 Team Lead:
