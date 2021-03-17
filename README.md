@@ -9,14 +9,13 @@ Kangkan Sarkar (https://github.com/KangkanS)
 Members:
 Abhay Koushik ()
 Reid Polis ()
-Sophie Lei ()
+Sophie Lei (https://github.com/Sophlei)
 Julian ()
-Karolina ()
-Imran ()
-Camilla ()
-Juliette ()
-Clement ()
+Karolina Guzauskaite (https://github.com/KaroGu)
+Juliette Bellengier (https://github.com/JulietteB-cri)
+Camila Ballenghien (https://github.com/camilaball)
+Imran Nooraddin (https://github.com/research555)
+Clément Galan (https://github.com/git-cgalan)
 
 For any questions, comments, and others, please contact us through the GitHub (by adding comments for example, or replying to an issue) or contact:
 Kangkan (kangkansarkar14@gmail.com)
-
