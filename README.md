@@ -12,7 +12,7 @@ Members:
 - Abhay Koushik ()
 - Reid Polis ()
 - Sophie Lei (https://github.com/Sophlei)
-- Julian ()
+- Julian Quilfen ()
 - Karolina Guzauskaite (https://github.com/KaroGu)
 - Juliette Bellengier (https://github.com/JulietteB-cri)
 - Camila Ballenghien (https://github.com/camilaball)
