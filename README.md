@@ -9,7 +9,7 @@ Team Lead:
 Kangkan Sarkar (https://github.com/KangkanS)
 
 Members:
-- Abhay Koushik ()
+- Abhay Koushik (https://github.com/AbhayKoushik)
 - Reid Polis ()
 - Sophie Lei (https://github.com/Sophlei)
 - Julian Quilfen ()
