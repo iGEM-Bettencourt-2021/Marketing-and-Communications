@@ -9,10 +9,10 @@ Team Lead:
 Kangkan Sarkar (https://github.com/KangkanS)
 
 Members:
-- Abhay Koushik ()
-- Reid Polis ()
+- Abhay Koushik (https://github.com/)
+- Reid Polis (https://github.com/ReidyPlayerOne)
 - Sophie Lei (https://github.com/Sophlei)
-- Julian Quilfen ()
+- Julian Quilfen (https://github.com/)
 - Karolina Guzauskaite (https://github.com/KaroGu)
 - Juliette Bellengier (https://github.com/JulietteB-cri)
 - Camila Ballenghien (https://github.com/camilaball)
